@@ -1,2 +1,1 @@
-abcdefgl
-rasty
+abc
